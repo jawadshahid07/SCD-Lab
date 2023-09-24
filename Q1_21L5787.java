@@ -24,6 +24,11 @@ public class Q1_21L5787 {
 		contentPanel.add(clickme);
 		helloworld.add(contentPanel);
 		
-		helloworld.setVisible(true);;
+		helloworld.setVisible(true);
+		
+	}
+	
+	public void gitfunc() {
+		// amazing function i have added for github testing
 	}
 }
